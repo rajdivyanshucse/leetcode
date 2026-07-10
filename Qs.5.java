@@ -1,6 +1,6 @@
 // 5. Longest Palindromic Substring
 
-import Java.util.*;
+import java.util.*;
 class Solution {
     public String longestPalindrome(String s) {
         int n = s.length();
